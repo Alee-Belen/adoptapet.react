@@ -1,0 +1,33 @@
+.mascota-card {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 16px;
+    width: 300px;
+    background-color: #f9f9f9;
+    margin-bottom: 16px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .mascota-card h2 {
+    margin: 0 0 8px;
+  }
+  
+  .mascota-card p {
+    margin: 4px 0;
+  }
+  
+  /* Estilos según la especie */
+  .mascota-card.perro {
+    border-left: 8px solid #ffcc00;
+    background-color: #fff8e1;
+  }
+  
+  .mascota-card.gato {
+    border-left: 8px solid #ff99cc;
+    background-color: #fff0f5;
+  }
+  
+  .mascota-card.otro {
+    border-left: 8px solid #99ccff;
+    background-color: #e6f7ff;
+  }
