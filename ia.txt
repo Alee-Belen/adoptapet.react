@@ -6,8 +6,12 @@ Ayuda con la paleta de colores
 como tambien ayuda con la visualizacion
 
 Etapa 3:
-
+ayuda con el key
 
 Etapa 4:
+con la filtracion y componente en app.jsx 
+
+"filtrar por especies y tambien en app.jsx usar apra guardar el filtr seleccionado 
+y aplica los filtros"
 
 Etapa 5:

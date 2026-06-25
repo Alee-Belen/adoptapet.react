@@ -6,7 +6,7 @@ function ListaMascota({ mascotas }) {
     <div className="mascotas-container">
       {mascotas.map((mascota) => (
         <MascotaCard
-          key={mascota.id} // Usamos el id como key
+          key={mascota.id}
           nombre={mascota.nombre}
           raza={mascota.raza}
           edad={mascota.edad}
